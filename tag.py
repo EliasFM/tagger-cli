@@ -92,7 +92,7 @@ def main():
     print c().printBlue("This loop edits untagged comments.")
     for u in untagged:
         edit_msg(u)
-        print c().printBlue("Enter \'q\' to exit.")
+        print c().printBlue("Enter \'q\' to exit and save.")
         print c().printHeader("Enter any key to continue.")
         print
         if raw_input().strip() == "q":
@@ -102,7 +102,7 @@ def main():
 
 def edit():
     init()
-    print c().printBlue("Edit message? Enter \'q\' to exit.")
+    print c().printBlue("Edit message? Enter \'q\' to exit and save.")
     print c().printHeader("Enter any key to continue.")
     while raw_input().strip() != "q":
         print c().printHeader("Enter the ID of the message you want to edit.")
@@ -111,21 +111,42 @@ def edit():
         for u in untagged:
             relevant.append(u)
         for t in tagged:
-            print t
             relevant.append(t)
-        # print relevant
         find = [m for m in relevant if m['id'] == search]
         if len(find) > 0:
             edit_msg(find[0])
-        print c().printBlue("Edit another? Enter \'q\' to exit.")
+        print c().printBlue("Edit another? Enter \'q\' to exit and save.")
         print c().printHeader("Enter any key to continue.")
         print
     merge_data()
+
+
+def clear_all_tags():
+    init()
+    print c().printHeader("Are you sure you want to clear all tags?")
+    print c().printHeader("Type \'yes\' to clear all tags.")
+    print c().printWarn("WARNING: This cannot be reverted.")
+    print c().printBlue("Enter any other key to quit.")
+    if raw_input().strip() == "yes":
+        for u in untagged:
+            u.pop('tags', None)
+        for t in tagged:
+            t.pop('tags', None)
+    else:
+        return
+    print c().printHeader("Ready to save. Are you sure?")
+    print c().printHeader("Type \'yes\' to clear all tags.")
+    print c().printWarn("WARNING: This cannot be reverted.")
+    print c().printBlue("Enter any other key to quit.")
+    if raw_input().strip() == "yes":
+        merge_data()
+    else:
+        return
 
 
 if __name__ == '__main__':
     if len(argv) == 1:
         main()
     elif len(argv) == 2:
-        call = {"main": main, "edit": edit}
+        call = {"main": main, "edit": edit, "clear": clear_all_tags}
         call[argv[1]]()

@@ -4,4 +4,4 @@ class tags:
             "Attacks News Source", "Praises News Source",
             "Attacks Participant", "Praises Participant",
             "Politically Neutral", "Politically Ambiguous",
-            "Irrelevant/Invalid"]
+            "Relevant", "Irrelevant"]
