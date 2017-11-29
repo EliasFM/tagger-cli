@@ -1,6 +1,111 @@
 {
   "data": [
     {
+      "created_time": "2017-11-20T07:01:07+0000",
+      "id": "10156308025161336_10156309222271336",
+      "message": "no...pretty sure we can thank conservatives...cause if liberals ran the us energy department...we would be hooked up to green renewable...cheap...energy"
+    },
+    {
+      "created_time": "2017-11-20T07:01:16+0000",
+      "id": "10156308025161336_10156309222456336",
+      "message": "LIBERALS HATE GAS"
+    },
+    {
+      "created_time": "2017-11-20T07:01:29+0000",
+      "id": "10156308025161336_10156309222721336",
+      "message": "ITS TOO MUCH............"
+    },
+    {
+      "created_time": "2017-11-20T07:02:17+0000",
+      "id": "10156308025161336_10156309223346336",
+      "message": "Every ill in America can be attributed to liberals. It's about time liberals are shipped off to Canada (there is ample space there), where they can blend in easily with their Canadian liberal counterparts (no guns either). Leave America to proud conservative Americans."
+    },
+    {
+      "created_time": "2017-11-20T07:02:51+0000",
+      "id": "10156308025161336_10156309225106336",
+      "message": "wait until you see your bills after they phase out fossil fuels...alternative energy cant provide for our needs for another 30 years...there will be huge price increases or blackouts"
+    },
+    {
+      "created_time": "2017-11-20T07:03:05+0000",
+      "id": "10156308025161336_10156309225666336",
+      "message": "I think Fox News got hacked too much nonsense"
+    },
+    {
+      "created_time": "2017-11-20T07:03:52+0000",
+      "id": "10156308025161336_10156309226541336",
+      "message": "Well liberals are only concerned with increasing costs."
+    },
+    {
+      "created_time": "2017-11-20T07:04:25+0000",
+      "id": "10156308025161336_10156309227051336",
+      "message": "With liberals price goes up quality goes down, kinda like them \ud83d\ude02"
+    },
+    {
+      "created_time": "2017-11-20T07:04:32+0000",
+      "id": "10156308025161336_10156309227106336",
+      "message": "Correlation isn\u2019t causation"
+    },
+    {
+      "created_time": "2017-11-20T07:04:47+0000",
+      "id": "10156308025161336_10156309227536336",
+      "message": "Veronica Santa Cruz"
+    },
+    {
+      "created_time": "2017-11-20T07:05:09+0000",
+      "id": "10156308025161336_10156309227881336",
+      "message": "Cheaper to heat my house with electric than gas..."
+    },
+    {
+      "created_time": "2017-11-20T07:05:21+0000",
+      "id": "10156308025161336_10156309228146336",
+      "message": "No.. lol."
+    },
+    {
+      "created_time": "2017-11-20T07:05:49+0000",
+      "id": "10156308025161336_10156309228726336",
+      "message": "Democrats are more responsible for bringing up cost on fuel. If we were not handing out welfare to illegals maybe we could use this money to build more refineries to bring cost down. Hillary for one along with Obama tried their best to shut down all coal production which hit the tax payers in the pocket on electricity. Trump has removed the ban on coal and hopefully we will see the cost of electricity come down a little. Thank God we have Trump!"
+    },
+    {
+      "created_time": "2017-11-20T07:06:00+0000",
+      "id": "10156308025161336_10156309228926336",
+      "message": "Fox news blaming everything on liberals....what a shocker. This is garbage and propaganda to fire up their followers. I'm pretty sure both parties have contributed to this."
+    },
+    {
+      "created_time": "2017-11-20T07:06:54+0000",
+      "id": "10156308025161336_10156309230006336",
+      "message": "I live in WA. One of the states with the highest energy taxes. 3.00 a gallon. Minimum."
+    },
+    {
+      "created_time": "2017-11-20T07:08:10+0000",
+      "id": "10156308025161336_10156309231361336",
+      "message": ""
+    },
+    {
+      "created_time": "2017-11-20T07:08:14+0000",
+      "id": "10156308025161336_10156309231431336",
+      "message": "Fox fake news"
+    },
+    {
+      "created_time": "2017-11-20T07:09:03+0000",
+      "id": "10156308025161336_10156309232371336",
+      "message": "Nobody has to live on the grid! You can live on your own solar @ wind power!!"
+    },
+    {
+      "created_time": "2017-11-20T07:11:03+0000",
+      "id": "10156308025161336_10156309235636336",
+      "message": "Yes"
+    },
+    {
+      "created_time": "2017-11-20T07:11:06+0000",
+      "id": "10156308025161336_10156309235701336",
+      "message": "OPINION: Is your pizzas crust too saggy? You can thank liberals for that."
+    },
+    {
+      "created_time": "2017-11-20T07:11:08+0000",
+      "id": "10156308025161336_10156309235751336",
+      "message": "Deport Shepard Smith to CNN"
+    },
+    {
       "created_time": "2017-11-20T07:11:33+0000",
       "id": "10156308025161336_10156309236246336",
       "message": "Liberals tax everything they don't like to death. Come to NY state. Taxation and welfare is choking the life out of us. I live in the second highest taxed county in the country."
@@ -2459,111 +2564,6 @@
       "created_time": "2017-11-22T15:57:27+0000",
       "id": "10156308025161336_745312929001934",
       "message": "I don't want to thank no one  what I want is you to fix it"
-    },
-    {
-      "created_time": "2017-11-20T07:03:52+0000",
-      "id": "10156308025161336_10156309226541336",
-      "message": "Well liberals are only concerned with increasing costs."
-    },
-    {
-      "created_time": "2017-11-20T07:04:25+0000",
-      "id": "10156308025161336_10156309227051336",
-      "message": "With liberals price goes up quality goes down, kinda like them \ud83d\ude02"
-    },
-    {
-      "created_time": "2017-11-20T07:04:32+0000",
-      "id": "10156308025161336_10156309227106336",
-      "message": "Correlation isn\u2019t causation"
-    },
-    {
-      "created_time": "2017-11-20T07:04:47+0000",
-      "id": "10156308025161336_10156309227536336",
-      "message": "Veronica Santa Cruz"
-    },
-    {
-      "created_time": "2017-11-20T07:05:09+0000",
-      "id": "10156308025161336_10156309227881336",
-      "message": "Cheaper to heat my house with electric than gas..."
-    },
-    {
-      "created_time": "2017-11-20T07:05:21+0000",
-      "id": "10156308025161336_10156309228146336",
-      "message": "No.. lol."
-    },
-    {
-      "created_time": "2017-11-20T07:05:49+0000",
-      "id": "10156308025161336_10156309228726336",
-      "message": "Democrats are more responsible for bringing up cost on fuel. If we were not handing out welfare to illegals maybe we could use this money to build more refineries to bring cost down. Hillary for one along with Obama tried their best to shut down all coal production which hit the tax payers in the pocket on electricity. Trump has removed the ban on coal and hopefully we will see the cost of electricity come down a little. Thank God we have Trump!"
-    },
-    {
-      "created_time": "2017-11-20T07:06:00+0000",
-      "id": "10156308025161336_10156309228926336",
-      "message": "Fox news blaming everything on liberals....what a shocker. This is garbage and propaganda to fire up their followers. I'm pretty sure both parties have contributed to this."
-    },
-    {
-      "created_time": "2017-11-20T07:06:54+0000",
-      "id": "10156308025161336_10156309230006336",
-      "message": "I live in WA. One of the states with the highest energy taxes. 3.00 a gallon. Minimum."
-    },
-    {
-      "created_time": "2017-11-20T07:08:10+0000",
-      "id": "10156308025161336_10156309231361336",
-      "message": ""
-    },
-    {
-      "created_time": "2017-11-20T07:08:14+0000",
-      "id": "10156308025161336_10156309231431336",
-      "message": "Fox fake news"
-    },
-    {
-      "created_time": "2017-11-20T07:09:03+0000",
-      "id": "10156308025161336_10156309232371336",
-      "message": "Nobody has to live on the grid! You can live on your own solar @ wind power!!"
-    },
-    {
-      "created_time": "2017-11-20T07:11:03+0000",
-      "id": "10156308025161336_10156309235636336",
-      "message": "Yes"
-    },
-    {
-      "created_time": "2017-11-20T07:11:06+0000",
-      "id": "10156308025161336_10156309235701336",
-      "message": "OPINION: Is your pizzas crust too saggy? You can thank liberals for that."
-    },
-    {
-      "created_time": "2017-11-20T07:11:08+0000",
-      "id": "10156308025161336_10156309235751336",
-      "message": "Deport Shepard Smith to CNN"
-    },
-    {
-      "created_time": "2017-11-20T07:03:05+0000",
-      "id": "10156308025161336_10156309225666336",
-      "message": "I think Fox News got hacked too much nonsense"
-    },
-    {
-      "created_time": "2017-11-20T07:02:51+0000",
-      "id": "10156308025161336_10156309225106336",
-      "message": "wait until you see your bills after they phase out fossil fuels...alternative energy cant provide for our needs for another 30 years...there will be huge price increases or blackouts"
-    },
-    {
-      "created_time": "2017-11-20T07:01:16+0000",
-      "id": "10156308025161336_10156309222456336",
-      "message": "LIBERALS HATE GAS"
-    },
-    {
-      "created_time": "2017-11-20T07:01:07+0000",
-      "id": "10156308025161336_10156309222271336",
-      "message": "no...pretty sure we can thank conservatives...cause if liberals ran the us energy department...we would be hooked up to green renewable...cheap...energy"
-    },
-    {
-      "created_time": "2017-11-20T07:01:29+0000",
-      "id": "10156308025161336_10156309222721336",
-      "message": "ITS TOO MUCH............"
-    },
-    {
-      "created_time": "2017-11-20T07:02:17+0000",
-      "id": "10156308025161336_10156309223346336",
-      "message": "Every ill in America can be attributed to liberals. It's about time liberals are shipped off to Canada (there is ample space there), where they can blend in easily with their Canadian liberal counterparts (no guns either). Leave America to proud conservative Americans."
     }
   ]
 }

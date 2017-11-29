@@ -77,6 +77,7 @@ def merge_data():
         merge.append(u)
     for t in tagged:
         merge.append(t)
+    merge = sorted(merge, key=lambda k: k['created_time'])
     obj = {"data": merge}
     # print c().printHeader(str(merge))
 
@@ -123,10 +124,11 @@ def edit():
 
 def clear_all_tags():
     init()
-    print c().printHeader("Are you sure you want to clear all tags?")
+    print c().printBlue("Are you sure you want to clear all tags?")
     print c().printHeader("Type \'yes\' to clear all tags.")
     print c().printWarn("WARNING: This cannot be reverted.")
-    print c().printBlue("Enter any other key to quit.")
+    print c().printHeader("Enter any other key to quit.")
+    print
     if raw_input().strip() == "yes":
         for u in untagged:
             u.pop('tags', None)
@@ -134,10 +136,11 @@ def clear_all_tags():
             t.pop('tags', None)
     else:
         return
-    print c().printHeader("Ready to save. Are you sure?")
+    print c().printBlue("Ready to save. Are you sure?")
     print c().printHeader("Type \'yes\' to clear all tags.")
     print c().printWarn("WARNING: This cannot be reverted.")
-    print c().printBlue("Enter any other key to quit.")
+    print c().printHeader("Enter any other key to quit.")
+    print
     if raw_input().strip() == "yes":
         merge_data()
     else:
