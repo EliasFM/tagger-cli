@@ -1,0 +1,2 @@
+class alphabet:
+    list = "abcdefghijklmnopqrstuvwxyz"
