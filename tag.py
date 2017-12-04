@@ -5,6 +5,12 @@ from tag_set import tags
 from sys import argv
 
 file = "97212224368_10156206718254369"
+# 149658925128808_1600412916720061 : Fox News Insider - Trump 3rd quarter salary
+# 97212224368_10156206718254369 : CNBC - Trump 3rd quarter salary
+
+# 5550296508_10157614223046509 : CNN - Net Neutrality repeal
+# 15704546335_10156316052531336 : Fox News - Net Neutrality repeal
+
 filename = "./data/{}.js".format(file)
 
 js_data = open(filename).read()
