@@ -23,3 +23,4 @@ There's also a spot edit feature, and a clear all feature.
 ### Example queries: 
 
 - [CNBC article](https://developers.facebook.com/tools/explorer/145634995501895/?method=GET&path=15704546335_10156308025161336%2Fcomments%3Forder%3Dchronological%26limit%3D10000&version=v2.11)
+- [Fox News Insider video](https://developers.facebook.com/tools/explorer/145634995501895/?method=GET&path=149658925128808_1600412916720061%2Fcomments%3Forder%3Dchronological%26limit%3D10000&version=v2.11)
