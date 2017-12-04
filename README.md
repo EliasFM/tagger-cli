@@ -16,6 +16,7 @@ There's also a spot edit feature, and a clear all feature.
 | News Agency | User ID |
 |---|---|
 | Fox News | 15704546335 |
+| Fox News Insider | 149658925128808 |
 | CNN | 5550296508 |
 | CNBC | 97212224368 |
 
