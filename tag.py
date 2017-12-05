@@ -1,8 +1,15 @@
+# Python v2.7.3
+
+# Imports
+import os
 import json
+from sys import argv
+
+# Internal packages
 from colors import c
 from alphabet import alphabet as abc
 from tag_set import tags
-from sys import argv
+
 
 file = "97212224368_10156206718254369"
 # 149658925128808_1600412916720061 : Fox News Insider - Trump 3rd quarter salary
@@ -11,10 +18,11 @@ file = "97212224368_10156206718254369"
 # 5550296508_10157614223046509 : CNN - Net Neutrality repeal
 # 15704546335_10156316052531336 : Fox News - Net Neutrality repeal
 
-filename = "./data/{}.js".format(file)
+directory = "./data/"
+# filename = "./data/{}.js".format(file)
 
-js_data = open(filename).read()
-data = json.loads(js_data)['data']
+# js_data = open(filename).read()
+# data = json.loads(js_data)['data']
 
 tags_dict = {}
 tagged = []
@@ -23,11 +31,29 @@ untagged = []
 
 def init():
     counter = 0
+    # List all tags available
     for t in tags.list:
         tags_dict[abc.list[counter]] = t
         counter = counter + 1
 
-    print tags_dict
+    # print tags_dict
+
+    files = []
+    for (dirpath, dirnames, filenames) in os.walk(directory):
+        for f in filenames:
+            if ".js" in f:
+                files.append(f)
+
+    for i, f in enumerate(files):
+        print c().printHeader("Enter " + c().printBlue(str(i)) + " for file: ") + c().printBlue(f)
+
+    index = int(raw_input().strip())
+    while index >= len(files):
+        print c().printWarn("Index out of bounds. Enter a valid number.")
+        index = int(raw_input().strip())
+
+    js_data = open(directory + files[index]).read()
+    data = json.loads(js_data)['data']
 
     for d in data:
         if "tags" not in d.keys():
