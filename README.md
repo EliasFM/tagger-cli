@@ -1,16 +1,22 @@
 # Tagger CLI
 
-First, edit the filename in `tag.py` to one of your choosing.
-
 Run the following command for default functionality.
 
 ```python tag.py```
 
-There's also a spot edit feature, and a clear all feature.
+Choose a file -- it will be enumerated 0 to X.
+
+There's also a spot edit feature.
 
 ```python tag.py edit```
 
+A clear all feature.
+
 ```python tag.py clear```
+
+And a check to ensure the tag groups are correct.
+
+```python tag.py check```
 
 ### News Sources
 
