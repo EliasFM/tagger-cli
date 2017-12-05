@@ -999,36 +999,6 @@
       "created_time": "2017-12-02T22:04:06+0000",
       "message": "Another tax write off.....",
       "id": "10156206718254369_10156212931399369"
-    },
-    {
-      "created_time": "2017-12-02T23:37:53+0000",
-      "message": "FU POS",
-      "id": "10156206718254369_10156213130359369"
-    },
-    {
-      "created_time": "2017-12-03T07:36:09+0000",
-      "message": "i'm not impressed.  IMHO he should donate his salary to the expenses to support the additional security forces that need to be deployed to protect him and his kids.",
-      "id": "10156206718254369_10156214070744369"
-    },
-    {
-      "created_time": "2017-12-03T07:38:22+0000",
-      "message": "Okay...",
-      "id": "10156206718254369_10156214074589369"
-    },
-    {
-      "created_time": "2017-12-03T22:01:08+0000",
-      "message": "FAKE",
-      "id": "10156206718254369_10156216110314369"
-    },
-    {
-      "created_time": "2017-12-04T01:46:29+0000",
-      "message": "His first - and only - classy move.",
-      "id": "10156206718254369_10156216607729369"
-    },
-    {
-      "created_time": "2017-12-04T10:52:51+0000",
-      "message": "His third quarter salary isn’t enough to pay for $150K in golf cart rentals by the Secret Service",
-      "id": "10156206718254369_10156217585799369"
     }
   ],
   "paging": "--sanitized--",
